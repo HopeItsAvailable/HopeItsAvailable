@@ -1,6 +1,6 @@
 Welcome!! My github is mix of things I build driven by my insatiable **curiosity** and love for **learning**:
 - Distributed systems, concurrency, and cloud infrastructure projects
-- Quick prototypes and technical spikes testing out new ideas
+- Tools that I create to fit my workflow
 - Occasional open-source contributions
 
 ### Featured Projects
