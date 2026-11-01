@@ -1,6 +1,6 @@
-A mix of things I build and explore:
+Welcome!! My github is mix of things I build as I love to learn:
 - Distributed systems, concurrency, and cloud infrastructure projects
-- Quick prototypes and technical spikes testing out new tools or ideas
+- Quick prototypes and technical spikes testing out new ideas
 - Occasional open-source contributions
 
 ### Featured Projects
